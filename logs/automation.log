@@ -1,0 +1,17 @@
+2025-07-17 11:49:39,057 - src.core.webdriver_manager - ERROR - Failed to create WebDriver: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:39,057 - src.core.base_automation - ERROR - Setup failed: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:39,059 - src.core.base_automation - INFO - Navigating to: https://dev.fliz.com.sa/ar/renter/companies
+2025-07-17 11:49:39,060 - src.core.base_automation - ERROR - Navigation failed: 'NoneType' object has no attribute 'get'
+2025-07-17 11:49:39,060 - src.pages.companies_page - ERROR - URL language change failed: 'NoneType' object has no attribute 'current_url'
+2025-07-17 11:49:39,127 - src.core.base_automation - INFO - Automation teardown completed
+2025-07-17 11:49:39,739 - src.core.webdriver_manager - ERROR - Failed to create WebDriver: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:39,740 - src.core.base_automation - ERROR - Setup failed: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:39,741 - src.core.base_automation - INFO - Navigating to: https://dev.fliz.com.sa/ar/renter/companies
+2025-07-17 11:49:39,742 - src.core.base_automation - ERROR - Navigation failed: 'NoneType' object has no attribute 'get'
+2025-07-17 11:49:39,743 - src.core.base_automation - INFO - Automation teardown completed
+2025-07-17 11:49:40,306 - src.core.webdriver_manager - ERROR - Failed to create WebDriver: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:40,307 - src.core.base_automation - ERROR - Setup failed: [Errno 8] Exec format error: '/Users/user/.wdm/drivers/chromedriver/mac64/138.0.7204.157/chromedriver-mac-x64/THIRD_PARTY_NOTICES.chromedriver'
+2025-07-17 11:49:40,309 - src.core.base_automation - INFO - Navigating to: https://dev.fliz.com.sa/en/renter/companies
+2025-07-17 11:49:40,309 - src.core.base_automation - ERROR - Navigation failed: 'NoneType' object has no attribute 'get'
+2025-07-17 11:49:40,310 - src.pages.companies_page - ERROR - Language verification failed: 'NoneType' object has no attribute 'current_url'
+2025-07-17 11:49:40,316 - src.core.base_automation - INFO - Automation teardown completed

@@ -11,13 +11,10 @@ class TestPlaceOrder:
         driver = setup
         driver.get(ReadConfig.get_application_url())
 
-        # ✅ Step 1: Login first
         UserLoginHelper.login(driver)
-
-        # ✅ Step 2: Place order with full parameters
         UserOrderHelper.place_order(
             driver=driver,
-            company_name="Natraj",        # 👈 Click company first
+            company_name="Natraj",
             equipment_index=1,
             quantity=2,
             start_date="2025-07-22",
